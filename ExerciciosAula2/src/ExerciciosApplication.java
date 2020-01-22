@@ -37,7 +37,7 @@ public class ExerciciosApplication {
 		
 		//agenda1.armazenarPessoa(pessoa);
 		
-		
+		agenda1.imprimirAgenda();
 	}
 
 }
