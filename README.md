@@ -1,4 +1,4 @@
-# Desafio desenvolvidos duarnte o BootCamp de java realizado pela CodeNation
+# Desafios desenvolvidos durante o Bootcamp de java realizado pela CodeNation
 
 
 -Duração: 11/01/2020 às 18/04/2020 :heavy_check_mark:
